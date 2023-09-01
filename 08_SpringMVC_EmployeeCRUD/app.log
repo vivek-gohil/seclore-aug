@@ -1,0 +1,963 @@
+2023-08-31 10:34:47 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:34:47 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:34:47 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 10:34:47 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 10:34:48 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:34:48 - Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:34:49 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:34:49 - Starting service [Tomcat]
+2023-08-31 10:34:49 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:34:49 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:34:49 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:34:49 - Root WebApplicationContext: initialization completed in 1619 ms
+2023-08-31 10:34:50 - HikariPool-1 - Starting...
+2023-08-31 10:34:50 - HikariPool-1 - Start completed.
+2023-08-31 10:34:50 - LiveReload server is running on port 35729
+2023-08-31 10:34:50 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:34:50 - Started Application in 3.343 seconds (JVM running for 4.116)
+2023-08-31 10:46:17 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 10:46:17 - Stopping service [Tomcat]
+2023-08-31 10:46:17 - HikariPool-1 - Shutdown initiated...
+2023-08-31 10:46:17 - HikariPool-1 - Shutdown completed.
+2023-08-31 10:46:17 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:46:17 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:46:18 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:46:18 - Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:46:18 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:46:18 - Starting service [Tomcat]
+2023-08-31 10:46:18 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:46:18 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:46:18 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:46:18 - Root WebApplicationContext: initialization completed in 276 ms
+2023-08-31 10:46:18 - HikariPool-2 - Starting...
+2023-08-31 10:46:18 - HikariPool-2 - Start completed.
+2023-08-31 10:46:18 - LiveReload server is running on port 35729
+2023-08-31 10:46:18 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:46:18 - Started Application in 0.423 seconds (JVM running for 691.921)
+2023-08-31 10:46:18 - Condition evaluation unchanged
+2023-08-31 10:46:18 - SpringBoot application deployed successfully
+2023-08-31 10:49:46 - Restarting due to 11 class path changes (0 additions, 0 deletions, 11 modifications)
+2023-08-31 10:49:46 - Stopping service [Tomcat]
+2023-08-31 10:49:46 - HikariPool-2 - Shutdown initiated...
+2023-08-31 10:49:46 - HikariPool-2 - Shutdown completed.
+2023-08-31 10:49:46 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:49:46 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:49:47 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:49:47 - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:49:47 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:49:47 - Starting service [Tomcat]
+2023-08-31 10:49:47 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:49:47 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:49:47 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:49:47 - Root WebApplicationContext: initialization completed in 245 ms
+2023-08-31 10:49:47 - HikariPool-3 - Starting...
+2023-08-31 10:49:47 - HikariPool-3 - Start completed.
+2023-08-31 10:49:47 - LiveReload server is running on port 35729
+2023-08-31 10:49:47 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:49:47 - Started Application in 0.395 seconds (JVM running for 900.867)
+2023-08-31 10:49:47 - Condition evaluation unchanged
+2023-08-31 10:49:47 - SpringBoot application deployed successfully
+2023-08-31 10:55:15 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 10:55:15 - Stopping service [Tomcat]
+2023-08-31 10:55:15 - HikariPool-3 - Shutdown initiated...
+2023-08-31 10:55:15 - HikariPool-3 - Shutdown completed.
+2023-08-31 10:55:15 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:55:15 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:55:15 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:55:15 - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:55:15 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:55:15 - Starting service [Tomcat]
+2023-08-31 10:55:15 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:55:15 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:55:15 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:55:15 - Root WebApplicationContext: initialization completed in 209 ms
+2023-08-31 10:55:15 - HikariPool-4 - Starting...
+2023-08-31 10:55:15 - HikariPool-4 - Start completed.
+2023-08-31 10:55:15 - LiveReload server is running on port 35729
+2023-08-31 10:55:15 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:55:15 - Started Application in 0.341 seconds (JVM running for 1229.374)
+2023-08-31 10:55:15 - Condition evaluation unchanged
+2023-08-31 10:55:15 - SpringBoot application deployed successfully
+2023-08-31 10:56:25 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 10:56:25 - Stopping service [Tomcat]
+2023-08-31 10:56:25 - HikariPool-4 - Shutdown initiated...
+2023-08-31 10:56:25 - HikariPool-4 - Shutdown completed.
+2023-08-31 10:56:25 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:56:25 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:56:25 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:56:25 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:56:25 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:56:25 - Starting service [Tomcat]
+2023-08-31 10:56:25 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:56:25 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:56:25 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:56:25 - Root WebApplicationContext: initialization completed in 195 ms
+2023-08-31 10:56:25 - HikariPool-5 - Starting...
+2023-08-31 10:56:25 - HikariPool-5 - Start completed.
+2023-08-31 10:56:25 - LiveReload server is running on port 35729
+2023-08-31 10:56:25 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:56:25 - Started Application in 0.318 seconds (JVM running for 1299.471)
+2023-08-31 10:56:25 - Condition evaluation unchanged
+2023-08-31 10:56:25 - SpringBoot application deployed successfully
+2023-08-31 10:57:07 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 10:57:07 - Stopping service [Tomcat]
+2023-08-31 10:57:07 - HikariPool-5 - Shutdown initiated...
+2023-08-31 10:57:07 - HikariPool-5 - Shutdown completed.
+2023-08-31 10:57:07 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:57:07 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:57:08 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:57:08 - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:57:08 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:57:08 - Starting service [Tomcat]
+2023-08-31 10:57:08 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:57:08 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:57:08 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:57:08 - Root WebApplicationContext: initialization completed in 201 ms
+2023-08-31 10:57:08 - HikariPool-6 - Starting...
+2023-08-31 10:57:08 - HikariPool-6 - Start completed.
+2023-08-31 10:57:08 - LiveReload server is running on port 35729
+2023-08-31 10:57:08 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:57:08 - Started Application in 0.31 seconds (JVM running for 1341.786)
+2023-08-31 10:57:08 - Condition evaluation unchanged
+2023-08-31 10:57:08 - SpringBoot application deployed successfully
+2023-08-31 10:58:31 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 10:58:31 - Stopping service [Tomcat]
+2023-08-31 10:58:31 - HikariPool-6 - Shutdown initiated...
+2023-08-31 10:58:31 - HikariPool-6 - Shutdown completed.
+2023-08-31 10:58:31 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 10:58:31 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 10:58:31 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 10:58:31 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 10:58:32 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 10:58:32 - Starting service [Tomcat]
+2023-08-31 10:58:32 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 10:58:32 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 10:58:32 - Initializing Spring embedded WebApplicationContext
+2023-08-31 10:58:32 - Root WebApplicationContext: initialization completed in 186 ms
+2023-08-31 10:58:32 - HikariPool-7 - Starting...
+2023-08-31 10:58:32 - HikariPool-7 - Start completed.
+2023-08-31 10:58:32 - LiveReload server is running on port 35729
+2023-08-31 10:58:32 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 10:58:32 - Started Application in 0.299 seconds (JVM running for 1425.697)
+2023-08-31 10:58:32 - Condition evaluation unchanged
+2023-08-31 10:58:32 - SpringBoot application deployed successfully
+2023-08-31 11:01:43 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:01:43 - Stopping service [Tomcat]
+2023-08-31 11:01:43 - HikariPool-7 - Shutdown initiated...
+2023-08-31 11:01:43 - HikariPool-7 - Shutdown completed.
+2023-08-31 11:01:43 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:01:43 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:01:43 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:01:43 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:01:43 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:01:43 - Starting service [Tomcat]
+2023-08-31 11:01:43 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:01:43 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:01:43 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:01:43 - Root WebApplicationContext: initialization completed in 169 ms
+2023-08-31 11:01:43 - HikariPool-8 - Starting...
+2023-08-31 11:01:43 - HikariPool-8 - Start completed.
+2023-08-31 11:01:43 - LiveReload server is running on port 35729
+2023-08-31 11:01:43 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:01:43 - Started Application in 0.29 seconds (JVM running for 1617.497)
+2023-08-31 11:01:43 - Condition evaluation unchanged
+2023-08-31 11:01:43 - SpringBoot application deployed successfully
+2023-08-31 11:01:48 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:01:48 - Stopping service [Tomcat]
+2023-08-31 11:01:48 - HikariPool-8 - Shutdown initiated...
+2023-08-31 11:01:48 - HikariPool-8 - Shutdown completed.
+2023-08-31 11:01:48 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:01:48 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:01:48 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:01:48 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:01:48 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:01:48 - Starting service [Tomcat]
+2023-08-31 11:01:48 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:01:48 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:01:48 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:01:48 - Root WebApplicationContext: initialization completed in 162 ms
+2023-08-31 11:01:48 - HikariPool-9 - Starting...
+2023-08-31 11:01:48 - HikariPool-9 - Start completed.
+2023-08-31 11:01:48 - LiveReload server is running on port 35729
+2023-08-31 11:01:48 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:01:48 - Started Application in 0.262 seconds (JVM running for 1622.28)
+2023-08-31 11:01:48 - Condition evaluation unchanged
+2023-08-31 11:01:48 - SpringBoot application deployed successfully
+2023-08-31 11:01:58 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:01:58 - Stopping service [Tomcat]
+2023-08-31 11:01:58 - HikariPool-9 - Shutdown initiated...
+2023-08-31 11:01:58 - HikariPool-9 - Shutdown completed.
+2023-08-31 11:01:58 - Starting Application using Java 17.0.6 on BornToCode with PID 25004 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:01:58 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:01:58 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:01:58 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:01:58 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:01:58 - Starting service [Tomcat]
+2023-08-31 11:01:58 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:01:58 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:01:58 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:01:58 - Root WebApplicationContext: initialization completed in 164 ms
+2023-08-31 11:01:58 - HikariPool-10 - Starting...
+2023-08-31 11:01:58 - HikariPool-10 - Start completed.
+2023-08-31 11:01:58 - LiveReload server is running on port 35729
+2023-08-31 11:01:58 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:01:58 - Started Application in 0.273 seconds (JVM running for 1632.114)
+2023-08-31 11:01:58 - Condition evaluation unchanged
+2023-08-31 11:01:58 - SpringBoot application deployed successfully
+2023-08-31 11:02:58 - Starting Application using Java 17.0.6 on BornToCode with PID 1464 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:02:58 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:02:58 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 11:02:58 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 11:02:59 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:02:59 - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:02:59 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:02:59 - Starting service [Tomcat]
+2023-08-31 11:02:59 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:03:00 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:03:00 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:03:00 - Root WebApplicationContext: initialization completed in 1629 ms
+2023-08-31 11:03:00 - HikariPool-1 - Starting...
+2023-08-31 11:03:00 - HikariPool-1 - Start completed.
+2023-08-31 11:03:00 - Unable to start LiveReload server
+2023-08-31 11:03:00 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2023-08-31 11:03:00 - HikariPool-1 - Shutdown initiated...
+2023-08-31 11:03:00 - HikariPool-1 - Shutdown completed.
+2023-08-31 11:03:00 - Stopping service [Tomcat]
+2023-08-31 11:03:00 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-31 11:03:01 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-08-31 11:03:19 - Starting Application using Java 17.0.6 on BornToCode with PID 30160 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:03:19 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:03:19 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 11:03:19 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 11:03:20 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:03:20 - Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:03:20 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:03:20 - Starting service [Tomcat]
+2023-08-31 11:03:20 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:03:21 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:03:21 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:03:21 - Root WebApplicationContext: initialization completed in 1469 ms
+2023-08-31 11:03:21 - HikariPool-1 - Starting...
+2023-08-31 11:03:21 - HikariPool-1 - Start completed.
+2023-08-31 11:03:21 - LiveReload server is running on port 35729
+2023-08-31 11:03:21 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:03:21 - Started Application in 2.797 seconds (JVM running for 3.166)
+2023-08-31 11:03:21 - SpringBoot application deployed successfully
+2023-08-31 11:03:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 11:03:28 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 11:03:28 - Completed initialization in 0 ms
+2023-08-31 11:19:34 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:19:34 - Stopping service [Tomcat]
+2023-08-31 11:19:34 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-08-31 11:19:34 - HikariPool-1 - Shutdown initiated...
+2023-08-31 11:19:34 - HikariPool-1 - Shutdown completed.
+2023-08-31 11:19:34 - Starting Application using Java 17.0.6 on BornToCode with PID 30160 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:19:34 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:19:34 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:19:34 - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:19:34 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:19:34 - Starting service [Tomcat]
+2023-08-31 11:19:34 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:19:34 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:19:34 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:19:34 - Root WebApplicationContext: initialization completed in 265 ms
+2023-08-31 11:19:35 - HikariPool-2 - Starting...
+2023-08-31 11:19:35 - HikariPool-2 - Start completed.
+2023-08-31 11:19:35 - LiveReload server is running on port 35729
+2023-08-31 11:19:35 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:19:35 - Started Application in 0.446 seconds (JVM running for 976.34)
+2023-08-31 11:19:35 - Condition evaluation unchanged
+2023-08-31 11:19:35 - SpringBoot application deployed successfully
+2023-08-31 11:19:41 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:19:41 - Stopping service [Tomcat]
+2023-08-31 11:19:41 - HikariPool-2 - Shutdown initiated...
+2023-08-31 11:19:41 - HikariPool-2 - Shutdown completed.
+2023-08-31 11:19:41 - Starting Application using Java 17.0.6 on BornToCode with PID 30160 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:19:41 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:19:41 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:19:41 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:19:41 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:19:41 - Starting service [Tomcat]
+2023-08-31 11:19:41 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:19:41 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:19:41 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:19:41 - Root WebApplicationContext: initialization completed in 223 ms
+2023-08-31 11:19:42 - HikariPool-3 - Starting...
+2023-08-31 11:19:42 - HikariPool-3 - Start completed.
+2023-08-31 11:19:42 - LiveReload server is running on port 35729
+2023-08-31 11:19:42 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:19:42 - Started Application in 0.364 seconds (JVM running for 983.248)
+2023-08-31 11:19:42 - Condition evaluation unchanged
+2023-08-31 11:19:42 - SpringBoot application deployed successfully
+2023-08-31 11:20:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 11:20:05 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 11:20:05 - Completed initialization in 1 ms
+2023-08-31 11:20:05 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [select * from employee_details_table]; nested exception is java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1200) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.zaxxer.hikari.pool.ProxyStatement.executeQuery(ProxyStatement.java:110) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.executeQuery(HikariProxyStatement.java) ~[HikariCP-4.0.3.jar:na]
+	at org.springframework.jdbc.core.JdbcTemplate$1QueryStatementCallback.doInStatement(JdbcTemplate.java:457) ~[spring-jdbc-5.3.29.jar:5.3.29]
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:383) ~[spring-jdbc-5.3.29.jar:5.3.29]
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:470) ~[spring-jdbc-5.3.29.jar:5.3.29]
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:480) ~[spring-jdbc-5.3.29.jar:5.3.29]
+	at com.seclore.main.repository.EmployeeRepository.getAllEmployees(EmployeeRepository.java:32) ~[classes/:na]
+	at com.seclore.main.service.EmployeeService.getAllEmployees(EmployeeService.java:22) ~[classes/:na]
+	at com.seclore.main.controller.EmployeeController.showEmployeeHome(EmployeeController.java:70) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[tomcat-embed-core-9.0.79.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.29.jar:5.3.29]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.79.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.29.jar:5.3.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.79.jar:9.0.79]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2023-08-31 11:23:11 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:23:11 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:23:11 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 11:23:11 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 11:23:12 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:23:12 - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:23:13 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:23:13 - Starting service [Tomcat]
+2023-08-31 11:23:13 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:23:13 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:23:13 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:23:13 - Root WebApplicationContext: initialization completed in 1522 ms
+2023-08-31 11:23:13 - HikariPool-1 - Starting...
+2023-08-31 11:23:14 - HikariPool-1 - Start completed.
+2023-08-31 11:23:14 - LiveReload server is running on port 35729
+2023-08-31 11:23:14 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:23:14 - Started Application in 2.909 seconds (JVM running for 3.27)
+2023-08-31 11:23:14 - SpringBoot application deployed successfully
+2023-08-31 11:23:17 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 11:23:17 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 11:23:17 - Completed initialization in 1 ms
+2023-08-31 11:23:18 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [select * from employee_details_table]; nested exception is java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1200)
+	at com.zaxxer.hikari.pool.ProxyStatement.executeQuery(ProxyStatement.java:110)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.executeQuery(HikariProxyStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1QueryStatementCallback.doInStatement(JdbcTemplate.java:457)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:383)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:470)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:480)
+	at com.seclore.main.repository.EmployeeRepository.getAllEmployees(EmployeeRepository.java:32)
+	at com.seclore.main.service.EmployeeService.getAllEmployees(EmployeeService.java:22)
+	at com.seclore.main.controller.EmployeeController.showEmployeeHome(EmployeeController.java:70)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-08-31 11:27:24 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-08-31 11:27:24 - Stopping service [Tomcat]
+2023-08-31 11:27:24 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-08-31 11:27:24 - HikariPool-1 - Shutdown initiated...
+2023-08-31 11:27:24 - HikariPool-1 - Shutdown completed.
+2023-08-31 11:27:24 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:27:24 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:27:24 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:27:24 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:27:24 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:27:24 - Starting service [Tomcat]
+2023-08-31 11:27:24 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:27:24 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:27:24 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:27:24 - Root WebApplicationContext: initialization completed in 291 ms
+2023-08-31 11:27:25 - HikariPool-2 - Starting...
+2023-08-31 11:27:25 - HikariPool-2 - Start completed.
+2023-08-31 11:27:25 - LiveReload server is running on port 35729
+2023-08-31 11:27:25 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:27:25 - Started Application in 0.469 seconds (JVM running for 253.985)
+2023-08-31 11:27:25 - Condition evaluation unchanged
+2023-08-31 11:27:25 - SpringBoot application deployed successfully
+2023-08-31 11:27:28 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:27:28 - Stopping service [Tomcat]
+2023-08-31 11:27:28 - HikariPool-2 - Shutdown initiated...
+2023-08-31 11:27:28 - HikariPool-2 - Shutdown completed.
+2023-08-31 11:27:28 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:27:28 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:27:28 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:27:28 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:27:28 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:27:28 - Starting service [Tomcat]
+2023-08-31 11:27:28 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:27:28 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:27:28 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:27:28 - Root WebApplicationContext: initialization completed in 267 ms
+2023-08-31 11:27:29 - HikariPool-3 - Starting...
+2023-08-31 11:27:29 - HikariPool-3 - Start completed.
+2023-08-31 11:27:29 - LiveReload server is running on port 35729
+2023-08-31 11:27:29 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:27:29 - Started Application in 0.439 seconds (JVM running for 257.948)
+2023-08-31 11:27:29 - Condition evaluation unchanged
+2023-08-31 11:27:29 - SpringBoot application deployed successfully
+2023-08-31 11:27:35 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:27:35 - Stopping service [Tomcat]
+2023-08-31 11:27:35 - HikariPool-3 - Shutdown initiated...
+2023-08-31 11:27:35 - HikariPool-3 - Shutdown completed.
+2023-08-31 11:27:35 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:27:35 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:27:35 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:27:35 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:27:35 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:27:35 - Starting service [Tomcat]
+2023-08-31 11:27:35 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:27:35 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:27:35 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:27:35 - Root WebApplicationContext: initialization completed in 231 ms
+2023-08-31 11:27:35 - HikariPool-4 - Starting...
+2023-08-31 11:27:35 - HikariPool-4 - Start completed.
+2023-08-31 11:27:35 - LiveReload server is running on port 35729
+2023-08-31 11:27:35 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:27:35 - Started Application in 0.365 seconds (JVM running for 264.874)
+2023-08-31 11:27:35 - Condition evaluation unchanged
+2023-08-31 11:27:35 - SpringBoot application deployed successfully
+2023-08-31 11:29:41 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:29:41 - Stopping service [Tomcat]
+2023-08-31 11:29:41 - HikariPool-4 - Shutdown initiated...
+2023-08-31 11:29:41 - HikariPool-4 - Shutdown completed.
+2023-08-31 11:29:41 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:29:41 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:29:41 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:29:41 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:29:41 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:29:41 - Starting service [Tomcat]
+2023-08-31 11:29:41 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:29:41 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:29:41 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:29:41 - Root WebApplicationContext: initialization completed in 211 ms
+2023-08-31 11:29:41 - HikariPool-5 - Starting...
+2023-08-31 11:29:41 - HikariPool-5 - Start completed.
+2023-08-31 11:29:41 - LiveReload server is running on port 35729
+2023-08-31 11:29:41 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:29:41 - Started Application in 0.341 seconds (JVM running for 390.807)
+2023-08-31 11:29:41 - Condition evaluation unchanged
+2023-08-31 11:29:41 - SpringBoot application deployed successfully
+2023-08-31 11:30:56 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:30:56 - Stopping service [Tomcat]
+2023-08-31 11:30:56 - HikariPool-5 - Shutdown initiated...
+2023-08-31 11:30:56 - HikariPool-5 - Shutdown completed.
+2023-08-31 11:30:56 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:30:56 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:30:56 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:30:56 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:30:56 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:30:56 - Starting service [Tomcat]
+2023-08-31 11:30:56 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:30:57 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:30:57 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:30:57 - Root WebApplicationContext: initialization completed in 202 ms
+2023-08-31 11:30:57 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 11:30:57 - HikariPool-6 - Starting...
+2023-08-31 11:30:57 - HikariPool-6 - Start completed.
+2023-08-31 11:30:57 - LiveReload server is running on port 35729
+2023-08-31 11:30:57 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:30:57 - Started Application in 0.331 seconds (JVM running for 466.043)
+2023-08-31 11:30:57 - Condition evaluation unchanged
+2023-08-31 11:30:57 - SpringBoot application deployed successfully
+2023-08-31 11:31:10 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:31:10 - Stopping service [Tomcat]
+2023-08-31 11:31:10 - HikariPool-6 - Shutdown initiated...
+2023-08-31 11:31:10 - HikariPool-6 - Shutdown completed.
+2023-08-31 11:31:10 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:31:10 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:31:10 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:31:10 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:31:10 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:31:10 - Starting service [Tomcat]
+2023-08-31 11:31:10 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:31:10 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:31:10 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:31:10 - Root WebApplicationContext: initialization completed in 184 ms
+2023-08-31 11:31:10 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 11:31:11 - HikariPool-7 - Starting...
+2023-08-31 11:31:11 - HikariPool-7 - Start completed.
+2023-08-31 11:31:11 - LiveReload server is running on port 35729
+2023-08-31 11:31:11 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:31:11 - Started Application in 0.293 seconds (JVM running for 479.936)
+2023-08-31 11:31:11 - Condition evaluation unchanged
+2023-08-31 11:31:11 - SpringBoot application deployed successfully
+2023-08-31 11:31:37 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 11:31:37 - Stopping service [Tomcat]
+2023-08-31 11:31:37 - HikariPool-7 - Shutdown initiated...
+2023-08-31 11:31:37 - HikariPool-7 - Shutdown completed.
+2023-08-31 11:31:37 - Starting Application using Java 17.0.6 on BornToCode with PID 16704 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:31:37 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:31:38 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:31:38 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:31:38 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:31:38 - Starting service [Tomcat]
+2023-08-31 11:31:38 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:31:38 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:31:38 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:31:38 - Root WebApplicationContext: initialization completed in 232 ms
+2023-08-31 11:31:38 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 11:31:38 - HikariPool-8 - Starting...
+2023-08-31 11:31:38 - HikariPool-8 - Start completed.
+2023-08-31 11:31:38 - LiveReload server is running on port 35729
+2023-08-31 11:31:38 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:31:38 - Started Application in 0.352 seconds (JVM running for 507.107)
+2023-08-31 11:31:38 - Condition evaluation unchanged
+2023-08-31 11:31:38 - SpringBoot application deployed successfully
+2023-08-31 11:33:54 - Starting Application using Java 17.0.6 on BornToCode with PID 9488 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 11:33:54 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 11:33:54 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 11:33:54 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 11:33:54 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 11:33:54 - Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2023-08-31 11:33:55 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 11:33:55 - Starting service [Tomcat]
+2023-08-31 11:33:55 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 11:33:55 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 11:33:55 - Initializing Spring embedded WebApplicationContext
+2023-08-31 11:33:55 - Root WebApplicationContext: initialization completed in 1498 ms
+2023-08-31 11:33:55 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 11:33:56 - HikariPool-1 - Starting...
+2023-08-31 11:33:56 - HikariPool-1 - Start completed.
+2023-08-31 11:33:56 - LiveReload server is running on port 35729
+2023-08-31 11:33:56 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 11:33:56 - Started Application in 2.814 seconds (JVM running for 3.171)
+2023-08-31 11:33:56 - SpringBoot application deployed successfully
+2023-08-31 11:34:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 11:34:03 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 11:34:03 - Completed initialization in 1 ms
+2023-08-31 11:34:03 - getExceptionPage() called
+2023-08-31 11:34:03 - Resolved [org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [select * from employee_details_table]; nested exception is java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist]
+2023-08-31 12:34:53 - Starting Application using Java 17.0.6 on BornToCode with PID 8560 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:34:53 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:34:53 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 12:34:53 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 12:34:53 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:34:53 - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:34:54 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:34:54 - Starting service [Tomcat]
+2023-08-31 12:34:54 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:34:54 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:34:54 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:34:54 - Root WebApplicationContext: initialization completed in 1519 ms
+2023-08-31 12:34:54 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:34:55 - HikariPool-1 - Starting...
+2023-08-31 12:34:55 - HikariPool-1 - Start completed.
+2023-08-31 12:34:55 - LiveReload server is running on port 35729
+2023-08-31 12:34:55 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2023-08-31 12:34:55 - HikariPool-1 - Shutdown initiated...
+2023-08-31 12:34:55 - HikariPool-1 - Shutdown completed.
+2023-08-31 12:34:55 - Stopping service [Tomcat]
+2023-08-31 12:34:55 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-31 12:34:55 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-08-31 12:35:03 - Starting Application using Java 17.0.6 on BornToCode with PID 8908 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:35:03 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:35:03 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 12:35:03 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 12:35:04 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:35:04 - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:35:04 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:35:04 - Starting service [Tomcat]
+2023-08-31 12:35:04 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:35:05 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:35:05 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:35:05 - Root WebApplicationContext: initialization completed in 1511 ms
+2023-08-31 12:35:05 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:35:05 - HikariPool-1 - Starting...
+2023-08-31 12:35:05 - HikariPool-1 - Start completed.
+2023-08-31 12:35:05 - LiveReload server is running on port 35729
+2023-08-31 12:35:05 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2023-08-31 12:35:05 - HikariPool-1 - Shutdown initiated...
+2023-08-31 12:35:06 - HikariPool-1 - Shutdown completed.
+2023-08-31 12:35:06 - Stopping service [Tomcat]
+2023-08-31 12:35:06 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-31 12:35:06 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-08-31 12:35:20 - Starting Application using Java 17.0.6 on BornToCode with PID 16628 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:35:20 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:35:20 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 12:35:20 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 12:35:21 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:35:21 - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:35:22 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:35:22 - Starting service [Tomcat]
+2023-08-31 12:35:22 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:35:22 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:35:22 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:35:22 - Root WebApplicationContext: initialization completed in 1540 ms
+2023-08-31 12:35:22 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:35:22 - HikariPool-1 - Starting...
+2023-08-31 12:35:23 - HikariPool-1 - Start completed.
+2023-08-31 12:35:23 - LiveReload server is running on port 35729
+2023-08-31 12:35:23 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 12:35:23 - Started Application in 2.903 seconds (JVM running for 3.264)
+2023-08-31 12:35:23 - SpringBoot application deployed successfully
+2023-08-31 12:35:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 12:35:37 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 12:35:37 - Completed initialization in 1 ms
+2023-08-31 12:35:37 - preHandle : /bookcrud/home  start time :: 1693465537485
+2023-08-31 12:35:37 - postHandle : /bookcrud/home end time :: 1693465537486
+2023-08-31 12:35:37 - afterCompletion : /bookcrud/home Total time :: 2
+2023-08-31 12:35:37 - preHandle : /error  start time :: 1693465537493
+2023-08-31 12:35:37 - postHandle : /error end time :: 1693465537514
+2023-08-31 12:35:38 - afterCompletion : /error Total time :: 617
+2023-08-31 12:37:48 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 12:37:48 - Stopping service [Tomcat]
+2023-08-31 12:37:48 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-08-31 12:37:48 - HikariPool-1 - Shutdown initiated...
+2023-08-31 12:37:48 - HikariPool-1 - Shutdown completed.
+2023-08-31 12:37:48 - Starting Application using Java 17.0.6 on BornToCode with PID 16628 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:37:48 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:37:49 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:37:49 - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:37:49 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:37:49 - Starting service [Tomcat]
+2023-08-31 12:37:49 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:37:49 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:37:49 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:37:49 - Root WebApplicationContext: initialization completed in 305 ms
+2023-08-31 12:37:49 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:37:49 - HikariPool-2 - Starting...
+2023-08-31 12:37:49 - HikariPool-2 - Start completed.
+2023-08-31 12:37:49 - LiveReload server is running on port 35729
+2023-08-31 12:37:49 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 12:37:49 - Started Application in 0.526 seconds (JVM running for 149.283)
+2023-08-31 12:37:49 - Condition evaluation unchanged
+2023-08-31 12:37:49 - SpringBoot application deployed successfully
+2023-08-31 12:37:50 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 12:37:50 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 12:37:50 - Completed initialization in 1 ms
+2023-08-31 12:37:50 - preHandle : /bookcrud/home  start time :: 1693465670626
+2023-08-31 12:37:50 - postHandle : /bookcrud/home end time :: 1693465670627
+2023-08-31 12:37:50 - afterCompletion : /bookcrud/home Total time :: 1
+2023-08-31 12:37:50 - preHandle : /error  start time :: 1693465670628
+2023-08-31 12:37:50 - postHandle : /error end time :: 1693465670634
+2023-08-31 12:37:50 - afterCompletion : /error Total time :: 85
+2023-08-31 12:37:52 - preHandle : /bookcrud/home  start time :: 1693465672750
+2023-08-31 12:37:52 - postHandle : /bookcrud/home end time :: 1693465672751
+2023-08-31 12:37:52 - afterCompletion : /bookcrud/home Total time :: 1
+2023-08-31 12:37:52 - preHandle : /error  start time :: 1693465672752
+2023-08-31 12:37:52 - postHandle : /error end time :: 1693465672762
+2023-08-31 12:37:52 - afterCompletion : /error Total time :: 11
+2023-08-31 12:37:53 - preHandle : /bookcrud/home  start time :: 1693465673580
+2023-08-31 12:37:53 - postHandle : /bookcrud/home end time :: 1693465673580
+2023-08-31 12:37:53 - afterCompletion : /bookcrud/home Total time :: 0
+2023-08-31 12:37:53 - preHandle : /error  start time :: 1693465673581
+2023-08-31 12:37:53 - postHandle : /error end time :: 1693465673587
+2023-08-31 12:37:53 - afterCompletion : /error Total time :: 6
+2023-08-31 12:38:21 - Starting Application using Java 17.0.6 on BornToCode with PID 10636 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:38:21 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:38:21 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 12:38:21 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 12:38:22 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:38:22 - Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:38:22 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:38:22 - Starting service [Tomcat]
+2023-08-31 12:38:22 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:38:23 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:38:23 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:38:23 - Root WebApplicationContext: initialization completed in 1457 ms
+2023-08-31 12:38:23 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:38:23 - HikariPool-1 - Starting...
+2023-08-31 12:38:23 - HikariPool-1 - Start completed.
+2023-08-31 12:38:23 - LiveReload server is running on port 35729
+2023-08-31 12:38:24 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 12:38:24 - Started Application in 2.769 seconds (JVM running for 3.128)
+2023-08-31 12:38:24 - SpringBoot application deployed successfully
+2023-08-31 12:38:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 12:38:32 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 12:38:32 - Completed initialization in 1 ms
+2023-08-31 12:38:32 - preHandle : /bookcrud/home  start time :: 1693465712413
+2023-08-31 12:38:32 - postHandle : /bookcrud/home end time :: 1693465712414
+2023-08-31 12:38:32 - afterCompletion : /bookcrud/home Total time :: 2
+2023-08-31 12:38:32 - preHandle : /error  start time :: 1693465712421
+2023-08-31 12:38:32 - postHandle : /error end time :: 1693465712440
+2023-08-31 12:38:33 - afterCompletion : /error Total time :: 626
+2023-08-31 12:38:38 - preHandle : /bookcrud/home  start time :: 1693465718056
+2023-08-31 12:38:38 - postHandle : /bookcrud/home end time :: 1693465718061
+2023-08-31 12:38:38 - afterCompletion : /bookcrud/home Total time :: 6
+2023-08-31 12:38:38 - preHandle : /error  start time :: 1693465718063
+2023-08-31 12:38:38 - postHandle : /error end time :: 1693465718071
+2023-08-31 12:38:38 - afterCompletion : /error Total time :: 10
+2023-08-31 12:39:01 - Starting Application using Java 17.0.6 on BornToCode with PID 31932 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:39:01 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:39:01 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 12:39:01 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 12:39:02 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:39:02 - Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:39:03 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:39:03 - Starting service [Tomcat]
+2023-08-31 12:39:03 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:39:03 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:39:03 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:39:03 - Root WebApplicationContext: initialization completed in 1556 ms
+2023-08-31 12:39:03 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:39:03 - HikariPool-1 - Starting...
+2023-08-31 12:39:04 - HikariPool-1 - Start completed.
+2023-08-31 12:39:04 - LiveReload server is running on port 35729
+2023-08-31 12:39:04 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 12:39:04 - Started Application in 2.944 seconds (JVM running for 3.339)
+2023-08-31 12:39:04 - SpringBoot application deployed successfully
+2023-08-31 12:39:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 12:39:29 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 12:39:29 - Completed initialization in 1 ms
+2023-08-31 12:39:29 - preHandle : /employeecrud/employees  start time :: 1693465769094
+2023-08-31 12:39:29 - postHandle : /employeecrud/employees end time :: 1693465769126
+2023-08-31 12:39:30 - afterCompletion : /employeecrud/employees Total time :: 1125
+2023-08-31 12:40:20 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 12:40:20 - Stopping service [Tomcat]
+2023-08-31 12:40:20 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-08-31 12:40:20 - HikariPool-1 - Shutdown initiated...
+2023-08-31 12:40:20 - HikariPool-1 - Shutdown completed.
+2023-08-31 12:40:20 - Starting Application using Java 17.0.6 on BornToCode with PID 31932 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 12:40:20 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 12:40:21 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 12:40:21 - Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2023-08-31 12:40:21 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 12:40:21 - Starting service [Tomcat]
+2023-08-31 12:40:21 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 12:40:21 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 12:40:21 - Initializing Spring embedded WebApplicationContext
+2023-08-31 12:40:21 - Root WebApplicationContext: initialization completed in 311 ms
+2023-08-31 12:40:21 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 12:40:21 - HikariPool-2 - Starting...
+2023-08-31 12:40:21 - HikariPool-2 - Start completed.
+2023-08-31 12:40:21 - LiveReload server is running on port 35729
+2023-08-31 12:40:21 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 12:40:21 - Started Application in 0.511 seconds (JVM running for 80.326)
+2023-08-31 12:40:21 - Condition evaluation unchanged
+2023-08-31 12:40:21 - SpringBoot application deployed successfully
+2023-08-31 12:40:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 12:40:22 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 12:40:22 - Completed initialization in 0 ms
+2023-08-31 12:40:22 - preHandle : /employeecrud/employees  start time :: 1693465822721
+2023-08-31 12:40:22 - getExceptionPage() called
+2023-08-31 12:40:22 - Resolved [org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [select * from employee_details_table]; nested exception is java.sql.SQLSyntaxErrorException: Table 'secloredb.employee_details_table' doesn't exist]
+2023-08-31 12:40:22 - afterCompletion : /employeecrud/employees Total time :: 148
+2023-08-31 14:48:02 - Starting Application using Java 17.0.6 on BornToCode with PID 31300 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 14:48:02 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 14:48:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-31 14:48:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-31 14:48:03 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 14:48:03 - Finished Spring Data repository scanning in 10 ms. Found 0 JDBC repository interfaces.
+2023-08-31 14:48:03 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 14:48:03 - Starting service [Tomcat]
+2023-08-31 14:48:03 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 14:48:04 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 14:48:04 - Initializing Spring embedded WebApplicationContext
+2023-08-31 14:48:04 - Root WebApplicationContext: initialization completed in 1522 ms
+2023-08-31 14:48:04 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 14:48:04 - HikariPool-1 - Starting...
+2023-08-31 14:48:04 - HikariPool-1 - Start completed.
+2023-08-31 14:48:04 - LiveReload server is running on port 35729
+2023-08-31 14:48:04 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 14:48:05 - Started Application in 2.873 seconds (JVM running for 3.254)
+2023-08-31 14:48:05 - SpringBoot application deployed successfully
+2023-08-31 14:48:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 14:48:22 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 14:48:22 - Completed initialization in 2 ms
+2023-08-31 14:48:22 - preHandle : /employeecrud/employees  start time :: 1693473502790
+2023-08-31 14:48:22 - postHandle : /employeecrud/employees end time :: 1693473502862
+2023-08-31 14:48:24 - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [104] milliseconds.
+2023-08-31 14:48:24 - afterCompletion : /employeecrud/employees Total time :: 1946
+2023-08-31 14:48:51 - preHandle : /employeecrud/employees  start time :: 1693473531132
+2023-08-31 14:48:51 - postHandle : /employeecrud/employees end time :: 1693473531135
+2023-08-31 14:48:51 - afterCompletion : /employeecrud/employees Total time :: 8
+2023-08-31 14:49:05 - preHandle : /employeecrud/employees  start time :: 1693473545848
+2023-08-31 14:49:05 - postHandle : /employeecrud/employees end time :: 1693473545850
+2023-08-31 14:49:05 - afterCompletion : /employeecrud/employees Total time :: 9
+2023-08-31 14:49:34 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 14:49:34 - Stopping service [Tomcat]
+2023-08-31 14:49:34 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-08-31 14:49:34 - HikariPool-1 - Shutdown initiated...
+2023-08-31 14:49:34 - HikariPool-1 - Shutdown completed.
+2023-08-31 14:49:34 - Starting Application using Java 17.0.6 on BornToCode with PID 31300 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 14:49:34 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 14:49:34 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 14:49:34 - Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2023-08-31 14:49:34 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 14:49:34 - Starting service [Tomcat]
+2023-08-31 14:49:34 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 14:49:35 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 14:49:35 - Initializing Spring embedded WebApplicationContext
+2023-08-31 14:49:35 - Root WebApplicationContext: initialization completed in 289 ms
+2023-08-31 14:49:35 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 14:49:35 - HikariPool-2 - Starting...
+2023-08-31 14:49:35 - HikariPool-2 - Start completed.
+2023-08-31 14:49:35 - LiveReload server is running on port 35729
+2023-08-31 14:49:35 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 14:49:35 - Started Application in 0.489 seconds (JVM running for 93.462)
+2023-08-31 14:49:35 - Condition evaluation unchanged
+2023-08-31 14:49:35 - SpringBoot application deployed successfully
+2023-08-31 14:49:37 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-31 14:49:37 - Stopping service [Tomcat]
+2023-08-31 14:49:37 - HikariPool-2 - Shutdown initiated...
+2023-08-31 14:49:37 - HikariPool-2 - Shutdown completed.
+2023-08-31 14:49:37 - Starting Application using Java 17.0.6 on BornToCode with PID 31300 (D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD\target\classes started by Vivek in D:\Training\Spring\Spring MVC\Seclore Aug\08_SpringMVC_EmployeeCRUD)
+2023-08-31 14:49:37 - No active profile set, falling back to 1 default profile: "default"
+2023-08-31 14:49:37 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-08-31 14:49:37 - Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2023-08-31 14:49:37 - Tomcat initialized with port(s): 8080 (http)
+2023-08-31 14:49:37 - Starting service [Tomcat]
+2023-08-31 14:49:37 - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-08-31 14:49:38 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-08-31 14:49:38 - Initializing Spring embedded WebApplicationContext
+2023-08-31 14:49:38 - Root WebApplicationContext: initialization completed in 267 ms
+2023-08-31 14:49:38 - EmployeeCRUDExceptionHandler object created!
+2023-08-31 14:49:38 - HikariPool-3 - Starting...
+2023-08-31 14:49:38 - HikariPool-3 - Start completed.
+2023-08-31 14:49:38 - LiveReload server is running on port 35729
+2023-08-31 14:49:38 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-31 14:49:38 - Started Application in 0.433 seconds (JVM running for 96.403)
+2023-08-31 14:49:38 - Condition evaluation unchanged
+2023-08-31 14:49:38 - SpringBoot application deployed successfully
+2023-08-31 14:49:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-31 14:49:55 - Initializing Servlet 'dispatcherServlet'
+2023-08-31 14:49:55 - Completed initialization in 1 ms
+2023-08-31 14:49:55 - preHandle : /employeecrud/employees  start time :: 1693473595256
+2023-08-31 14:49:55 - postHandle : /employeecrud/employees end time :: 1693473595262
+2023-08-31 14:49:55 - afterCompletion : /employeecrud/employees Total time :: 108
+2023-08-31 14:50:34 - preHandle : /employeecrud/newemployee  start time :: 1693473634102
+2023-08-31 14:50:34 - postHandle : /employeecrud/newemployee end time :: 1693473634110
+2023-08-31 14:50:34 - afterCompletion : /employeecrud/newemployee Total time :: 161
+2023-08-31 14:51:03 - preHandle : /employeecrud/newemployee  start time :: 1693473663859
+2023-08-31 14:51:03 - postHandle : /employeecrud/newemployee end time :: 1693473663861
+2023-08-31 14:51:03 - afterCompletion : /employeecrud/newemployee Total time :: 8
+2023-08-31 14:51:40 - preHandle : /employeecrud/saveemployee  start time :: 1693473700435
+2023-08-31 14:51:40 - postHandle : /employeecrud/saveemployee end time :: 1693473700510
+2023-08-31 14:51:40 - afterCompletion : /employeecrud/saveemployee Total time :: 79
+2023-08-31 14:51:40 - preHandle : /employeecrud/employees  start time :: 1693473700520
+2023-08-31 14:51:40 - postHandle : /employeecrud/employees end time :: 1693473700521
+2023-08-31 14:51:40 - afterCompletion : /employeecrud/employees Total time :: 5
